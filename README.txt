@@ -12,4 +12,14 @@ line or Git Bash. The program is written in Python and will
 simply print to the console a count down of the 99 bottles
 of beer on the wall song.
 
-##########################################################
+###########################################################
+
+What was learned:
+	-Working and Remote repository and their storage 
+	 locations.
+	-Importance of various git commands and its 
+	 effects on working or remote repository
+	-Various configuration management concepts
+	-Various use of GIT's command set
+
+###########################################################
